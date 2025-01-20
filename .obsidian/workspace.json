@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "0e863c2fbd8aea8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9aae4c8acf9ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4abf498c55c142d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/WORK/읽을거리/상수 사용처에서 확장 메서드 호출 시도 에러.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "상수 사용처에서 확장 메서드 호출 시도 에러"
+            }
+          },
+          {
+            "id": "571be86a76421989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "root/TEMPLATES/LIFE/weekly note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "weekly note"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1239f9c1863cfd2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9ea6e1a16e097b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14882e6d674e7165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f99db1cfa4f6463",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25ffc819efeb7213",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "cec1c8876217e438",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bebd6fb5ccc8512",
+        "type": "tabs",
+        "dimension": 26.609029779058595,
+        "children": [
+          {
+            "id": "0545850ceebbe4b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "root/TEMPLATES/LIFE/daily note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for daily note"
+            }
+          },
+          {
+            "id": "e950dcb550cfa14a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "root/TEMPLATES/LIFE/daily note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from daily note"
+            }
+          },
+          {
+            "id": "2f0c5a2f1f0f80f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79e49a3e679ae969",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "88716f5f61bd44df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "root/TEMPLATES/LIFE/weekly note.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of weekly note"
+            }
+          },
+          {
+            "id": "d8e25f8bfdef60fe",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "f31c9f53c8d607ea",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "af97b418b2ddb5d0",
+        "type": "tabs",
+        "dimension": 28.62632084534102,
+        "children": [
+          {
+            "id": "364199f6c1ed669c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4b89069b151c251",
+        "type": "tabs",
+        "dimension": 44.764649375600385,
+        "children": [
+          {
+            "id": "91955fcf2d0efb5c",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "571be86a76421989",
+  "lastOpenFiles": [
+    "root/TEMPLATES/LIFE/yearly note.md",
+    "root/TEMPLATES/LIFE/monthly note.md",
+    "root/TEMPLATES/LIFE/daily note.md",
+    "root/TEMPLATES/LIFE/weekly note.md",
+    "root/LIFE/WEEKLY NOTE/2025년 1월 4주차.md",
+    "root/LIFE/DAILY NOTE/2025-01-21 (Tue).md",
+    "root/TEMP/낙서장.md",
+    "root/WORK/읽을거리/뒤로 가기 제스처 감지하기.md",
+    "root/WORK/읽을거리/상수 사용처에서 확장 메서드 호출 시도 에러.md",
+    "root/TEMPLATES/LIFE/quarterly note.md",
+    "root/LIFE/DAILY NOTE/2025-01-22 (Wed).md",
+    "root/TEMPLATES/LIFE/Invalid date.md",
+    "root/LIFE/DAILY NOTE/2025-01-22.md",
+    "root/LIFE/DAILY NOTE/<% yesterday %>.md",
+    "root/LIFE/DAILY NOTE/<% tomorrow %>.md",
+    "root/WORK/to do list.md",
+    "root/Welcome.md",
+    "2025-01-21.md",
+    "root/LIFE/DAILY NOTE/2025-01-20 (Mon).md",
+    "root/WORK/읽을거리/왜 구현체는 data로 들어가고, 인터페이스는 domain으로 들어갈까?.md",
+    "root/WORK/읽을거리/애니메이션 이슈.md",
+    "root/WORK/읽을거리/TextFormField의 controller와 intialValue.md",
+    "root/WORK/읽을거리/TextFormField의 `readOnly` vs. `enabled`.md",
+    "root/WORK/읽을거리/AbsorberPointer.md",
+    "root/WORK/읽을거리",
+    "root/TEMPLATES/WORK",
+    "root/TEMPLATES/LIFE",
+    "root/LIFE/YEARLY NOTE",
+    "root/LIFE/WEEKLY NOTE",
+    "root/LIFE/DAILY NOTE",
+    "root/LIFE/QUARTERLY NOTE",
+    "root/LIFE/MONTHLY NOTE",
+    "root/TEMP",
+    "root/WORK",
+    "root 복사본/TEMPLATES/LIFE/yearly note.md",
+    "root 복사본/TEMPLATES/LIFE/weekly note.md",
+    "금빈/옵시디언 사용법/attachments/사이드바 드래그 앤 드랍.png",
+    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120630.png",
+    "금빈/옵시디언 사용법/attachments/사이드바.png",
+    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120613.png",
+    "금빈/옵시디언 사용법/attachments/Appearance 탭 선택.png",
+    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120610.png",
+    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120603.png",
+    "금빈/옵시디언 사용법/attachments/테마 목록 확인하기.png",
+    "금빈/옵시디언 사용법/attachments/설정 가기.png",
+    "금빈/옵시디언 사용법/attachments/새 Vault 만들기.png",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "color-extend",
+    "full-width",
+    "code-block-line-number",
+    "fonts",
+    "theme"
+  ],
+  "accentColor": "",
+  "baseFontSize": 14
+}

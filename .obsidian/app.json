@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "showUnsupportedFiles": false,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "tabSize": 4,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "defaultViewMode": "preview",
+  "rightToLeft": false,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "foldHeading": true,
+  "newFileFolderPath": "금빈/temp"
+}

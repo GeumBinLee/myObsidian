@@ -1,0 +1,41 @@
+{
+  "scanned": true,
+  "reminders": {
+    "root/LIFE/DAILY NOTE/2025-01-21 (Tue).md": [
+      {
+        "title": "일정 2 )",
+        "time": "2025-01-21 00:00",
+        "rowNumber": 17
+      },
+      {
+        "title": "00:00 할 일 1 )",
+        "time": "2025-01-21 00:00",
+        "rowNumber": 20
+      },
+      {
+        "title": "00:00 할 일 2 )",
+        "time": "2025-01-21 00:00",
+        "rowNumber": 21
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "10:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD hh:mmA",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 3600
+  }
+}

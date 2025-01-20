@@ -1,0 +1,244 @@
+{
+  "workspaces": {
+    "계획": {
+      "main": {
+        "id": "0e863c2fbd8aea8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "7f9aae4c8acf9ae1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b84b3bb3fc5ef8e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "root/TEMPLATES/LIFE/daily note.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "daily note"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1239f9c1863cfd2d",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f9ea6e1a16e097b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "14882e6d674e7165",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "7f99db1cfa4f6463",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#important",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "25ffc819efeb7213",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 299.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "cec1c8876217e438",
+        "type": "split",
+        "children": [
+          {
+            "id": "2bebd6fb5ccc8512",
+            "type": "tabs",
+            "dimension": 26.6090297790586,
+            "children": [
+              {
+                "id": "0545850ceebbe4b2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "root/TEMPLATES/LIFE/daily note.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for daily note"
+                }
+              },
+              {
+                "id": "e950dcb550cfa14a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "root/TEMPLATES/LIFE/daily note.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from daily note"
+                }
+              },
+              {
+                "id": "2f0c5a2f1f0f80f9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "79e49a3e679ae969",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "88716f5f61bd44df",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "root/TEMPLATES/LIFE/daily note.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "daily note 개요"
+                }
+              },
+              {
+                "id": "d8e25f8bfdef60fe",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              },
+              {
+                "id": "f31c9f53c8d607ea",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Reminders"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "af97b418b2ddb5d0",
+            "type": "tabs",
+            "dimension": 19.212295869356392,
+            "children": [
+              {
+                "id": "364199f6c1ed669c",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Reminders"
+                }
+              }
+            ]
+          },
+          {
+            "id": "b4b89069b151c251",
+            "type": "tabs",
+            "dimension": 54.17867435158501,
+            "children": [
+              {
+                "id": "91955fcf2d0efb5c",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 420.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:퀵 스위처 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 데일리 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "markdown-importer:마크다운 형식 가져오기 열기": false,
+          "audio-recorder:녹음 시작/중지": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:작업 공간 레이아웃 관리": false
+        }
+      },
+      "active": "b84b3bb3fc5ef8e5",
+      "mtime": "2025-01-21T04:34:05+09:00"
+    }
+  },
+  "active": "계획"
+}

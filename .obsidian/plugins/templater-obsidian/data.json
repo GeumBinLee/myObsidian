@@ -1,0 +1,53 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "root/TEMPLATES",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "root/LIFE/DAILY NOTE",
+      "template": "root/TEMPLATES/LIFE/daily note.md"
+    },
+    {
+      "folder": "root/LIFE/WEEKLY NOTE",
+      "template": "root/TEMPLATES/LIFE/weekly note.md"
+    },
+    {
+      "folder": "root/LIFE/MONTHLY NOTE",
+      "template": "root/TEMPLATES/LIFE/monthly note.md"
+    },
+    {
+      "folder": "root/LIFE/QUARTERLY NOTE",
+      "template": "root/TEMPLATES/LIFE/quarterly note.md"
+    },
+    {
+      "folder": "root/LIFE/YEARLY NOTE",
+      "template": "root/TEMPLATES/LIFE/yearly note.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    "root/TEMPLATES/LIFE/daily note.md"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY-MM-DD (ddd)",
+    "folder": "root/LIFE/DAILY NOTE",
+    "template": "root/TEMPLATES/LIFE/daily note",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "yyyy년 M월 w주차",
+    "template": "root/TEMPLATES/LIFE/weekly note.md",
+    "folder": "root/LIFE/WEEKLY NOTE",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY년 M월",
+    "template": "root/TEMPLATES/LIFE/monthly note.md",
+    "folder": "root/LIFE/MONTHLY NOTE",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY년 Q분기",
+    "template": "root/TEMPLATES/LIFE/quarterly note.md",
+    "folder": "root/LIFE/QUARTERLY NOTE",
+    "enabled": false
+  },
+  "yearly": {
+    "format": "YYYY년",
+    "template": "",
+    "folder": "",
+    "enabled": true
+  }
+}
