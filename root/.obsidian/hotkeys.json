@@ -23,5 +23,13 @@
       ],
       "key": "A"
     }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "T"
+    }
   ]
 }

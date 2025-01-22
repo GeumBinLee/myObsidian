@@ -1,13 +1,12 @@
 [
   "calendar",
-  "dataview",
-  "abbreviations",
   "obsidian-reminder-plugin",
   "folder-note-plugin",
   "periodic-notes",
-  "obsidian-day-planner",
   "obsidian-style-settings",
   "templater-obsidian",
+  "quickadd",
+  "abbreviations",
   "obsidian-tasks-plugin",
-  "quickadd"
+  "dataview"
 ]

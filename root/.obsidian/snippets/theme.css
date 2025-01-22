@@ -116,6 +116,16 @@ settings:
             label: Thorns
             value: ctp-thorns
 */
+
+.callout[data-callout="quote"] {
+  border-left: 4px solid #cfcfcf !important; /* 왼쪽 테두리 색 */
+}
+/* SVG 아이콘 색 변경 */
+.callout[data-callout="quote"] .callout-icon svg {
+  fill: #cfcfcf !important; /* SVG 아이콘 색 */
+}
+
+
 .theme-dark.anp-theme-ext-dark.ctp-rosebox {
   /* --ctp-accent: 165, 117, 98; */
   --ctp-accent: 231, 148, 167;

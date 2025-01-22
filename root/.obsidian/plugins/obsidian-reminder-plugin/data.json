@@ -1,21 +1,26 @@
 {
   "scanned": true,
   "reminders": {
-    "root/LIFE/DAILY NOTE/2025-01-21 (Tue).md": [
+    "LIFE/2025/DAILY NOTE/2025-01-22 (Wed).md": [
       {
-        "title": "일정 2 )",
-        "time": "2025-01-21 00:00",
-        "rowNumber": 17
+        "title": "1일 1커밋",
+        "time": "2025-01-22",
+        "rowNumber": 44
       },
       {
-        "title": "00:00 할 일 1 )",
-        "time": "2025-01-21 00:00",
-        "rowNumber": 20
+        "title": "(Anki) 日本語 勉強",
+        "time": "2025-01-22",
+        "rowNumber": 45
       },
       {
-        "title": "00:00 할 일 2 )",
-        "time": "2025-01-21 00:00",
-        "rowNumber": 21
+        "title": "(Anki) Studying English",
+        "time": "2025-01-22",
+        "rowNumber": 46
+      },
+      {
+        "title": "IN PROGRESS",
+        "time": "2025-01-22",
+        "rowNumber": 47
       }
     ]
   },
@@ -26,13 +31,13 @@
     "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
     "primaryReminderFormat": "ReminderPluginReminderFormat",
-    "enableReminderPluginReminderFormat": true,
+    "enableReminderPluginReminderFormat": false,
     "dateFormat": "YYYY-MM-DD",
     "dateTimeFormat": "YYYY-MM-DD hh:mmA",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": true,
     "enableTasksPluginReminderFormat": true,
-    "useCustomEmojiForTasksPlugin": true,
+    "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
     "editDetectionSec": 10,
