@@ -7,6 +7,8 @@
     "created": "datetime",
     "updated": "datetime",
     "score": "number",
-    "mood": "multitext"
+    "mood": "multitext",
+    "weather": "multitext",
+    "date": "date"
   }
 }

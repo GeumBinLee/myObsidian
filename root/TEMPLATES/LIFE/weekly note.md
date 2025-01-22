@@ -1,18 +1,36 @@
+---
+created: <% tp.date.now("YYYY-MM-DD @ HH:mm") %>
+updated: <% tp.date.now("YYYY-MM-DD @ HH:mm") %>
+tags:
+  - weeklynote
+---
 <%*
 const now = moment(); // 오늘 날짜 기준
 const currentWeekMonday = now.clone().startOf('isoWeek'); // 이번 주 월요일 계산
-const mon = currentWeekMonday.clone().add(0, 'days').format("YYYY-MM-DD (ddd)");
-const tue = currentWeekMonday.clone().add(1, 'days').format("YYYY-MM-DD (ddd)");
-const wed = currentWeekMonday.clone().add(2, 'days').format("YYYY-MM-DD (ddd)");
-const thu = currentWeekMonday.clone().add(3, 'days').format("YYYY-MM-DD (ddd)");
-const fri = currentWeekMonday.clone().add(4, 'days').format("YYYY-MM-DD (ddd)");
-const sat = currentWeekMonday.clone().add(5, 'days').format("YYYY-MM-DD (ddd)");
-const sun = currentWeekMonday.clone().add(6, 'days').format("YYYY-MM-DD (ddd)");
+const mon = currentWeekMonday.clone().add(0, 'days').format("YYYY-MM-DD");
+const tue = currentWeekMonday.clone().add(1, 'days').format("YYYY-MM-DD");
+const wed = currentWeekMonday.clone().add(2, 'days').format("YYYY-MM-DD");
+const thu = currentWeekMonday.clone().add(3, 'days').format("YYYY-MM-DD");
+const fri = currentWeekMonday.clone().add(4, 'days').format("YYYY-MM-DD");
+const sat = currentWeekMonday.clone().add(5, 'days').format("YYYY-MM-DD");
+const sun = currentWeekMonday.clone().add(6, 'days').format("YYYY-MM-DD");
+const weekNumber = now.isoWeek(); // ISO 주차 계산
+const weekYear = now.isoWeekYear(); // 해당 주차의 연도
+const month = now.month() + 1;
+const weeklyTitle = `${weekYear}년 ${month}월 ${weekNumber}주차`; // 위클리 제목 형식
+const monthlyTitle = `${weekYear}-${String(month).padStart(2, "0")}`; // 월간 제목 형식
 %>
 # <% tp.file.title %>
-## MEMO
+## GOAL
+- [*] 목표
+```tasks
+path includes LIFE/2025/MONTHLY NOTE/<% monthlyTitle %>
+heading includes Week <% weekNumber %> GOAL
+filter by function ["NON_TASK"].includes(task.status.type) && ["Star"].includes(task.status.name)
+```
+
+## 메모
 - [n] 노트 테이킹
-- [*] 중요 메모
 - [?] 질문
 - [i] 정보성 메모
 - [I] 아이디어
@@ -20,24 +38,12 @@ const sun = currentWeekMonday.clone().add(6, 'days').format("YYYY-MM-DD (ddd)");
 - [b] 북마크
 - ["] 인용
 
-## PRIORITY
-- 
-
-## POSTPONED TASKS for this week
-```tasks
-due on this week
-created before this week
-filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
-```
-
 ## UNFINISHED TASKS
 ```tasks
-path includes LIFE/2025/DAILY NOTE
 due on this week
 filter by function ["TODO", "IN_PROGRESS"].includes(task.status.type) && !["Rescheduled", "Scheduled", "Location", "Cake", "Important"].includes(task.status.name)
 ```
 ```tasks
-path includes LIFE/2025/DAILY NOTE
 created on this week
 (done after this week) OR (cancelled after this week)
 filter by function ["DONE", "CANCELLED"].includes(task.status.type)
@@ -49,134 +55,162 @@ filter by function ["DONE", "CANCELLED"].includes(task.status.type)
 
 # TASKS BY DAYS OF THE WEEK
 > [!Info] 위클리에서 데일리 업무를 추가할 경우, Tasks의 ➕와 📅 항목을 꼭 추가해야 함.
-## [[<% mon %>]]
+## [[<% mon %>]] (Mon)
+### SCHEDULE for Mon
 ```tasks
-path includes LIFE/2025/DAILY NOTE/<% mon %>
-heading includes SCHEDULE
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
+scheduled on <% mon %>
+filter by function ['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
+### TO DO LIST for Mon
 ```tasks
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
 due on <% mon %>
-created before <% mon %>
 filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% mon %>
-heading includes TO DO LIST
+heading includes "Today's tasks"
 ```
+### MEMO for Mon
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% mon %>
 heading includes MEMO
 ```
 
-## [[<% tue %>]]
+## [[<% tue %>]] (Tue)
+### SCHEDULE for Tue
 ```tasks
-path includes LIFE/2025/DAILY NOTE/<% tue %>
-heading includes SCHEDULE
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
+scheduled on <% tue %>
+filter by function ['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
+### TO DO LIST for Tue
 ```tasks
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
 due on <% tue %>
-created before <% tue %>
 filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% tue %>
-heading includes TO DO LIST
+heading includes "Today's tasks"
 ```
+### MEMO for Tue
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% tue %>
 heading includes MEMO
 ```
 
-## [[<% wed %>]]
+## [[<% wed %>]] (Wed)
+### SCHEDULE for Wed
 ```tasks
-path includes LIFE/2025/DAILY NOTE/<% wed %>
-heading includes SCHEDULE
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
+scheduled on <% wed %>
+filter by function ['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
+### TO DO LIST for Wed
 ```tasks
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
 due on <% wed %>
-created before <% wed %>
 filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% wed %>
-heading includes TO DO LIST
+heading includes "Today's tasks"
 ```
+### MEMO for Wed
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% wed %>
 heading includes MEMO
 ```
 
-## [[<% thu %>]]
+## [[<% thu %>]] (Thu)
+### SCHEDULE for Thu
 ```tasks
-path includes LIFE/2025/DAILY NOTE/<% thu %>
-heading includes SCHEDULE
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
+scheduled on <% thu %>
+filter by function ['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
+### TO DO LIST for Thu
 ```tasks
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
 due on <% thu %>
-created before <% thu %>
 filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% thu %>
-heading includes TO DO LIST
+heading includes "Today's tasks"
 ```
+### MEMO for Thu
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% thu %>
 heading includes MEMO
 ```
 
-## [[<% fri %>]]
+## [[<% fri %>]] (Fri)
+### SCHEDULE for Fri
 ```tasks
-path includes LIFE/2025/DAILY NOTE/<% fri %>
-heading includes SCHEDULE
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
+scheduled on <% fri %>
+filter by function ['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
+### TO DO LIST for Fri
 ```tasks
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
 due on <% fri %>
-created before <% fri %>
 filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% fri %>
-heading includes TO DO LIST
+heading includes "Today's tasks"
 ```
+### MEMO for Fri
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% fri %>
 heading includes MEMO
 ```
 
-## [[<% sat %>]]
+## [[<% sat %>]] (Sat)
+### SCHEDULE for Sat
 ```tasks
-path includes LIFE/2025/DAILY NOTE/<% sat %>
-heading includes SCHEDULE
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
+scheduled on <% sat %>
+filter by function ['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
+### TO DO LIST for Sat
 ```tasks
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
 due on <% sat %>
-created before <% sat %>
 filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% sat %>
-heading includes TO DO LIST
+heading includes "Today's tasks"
 ```
+### MEMO for Sat
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% sat %>
 heading includes MEMO
 ```
 
-## [[<% sun %>]]
+## [[<% sun %>]] (Sun)
+### SCHEDULE for Sun
 ```tasks
-path includes LIFE/2025/DAILY NOTE/<% sun %>
-heading includes SCHEDULE
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
+scheduled on <% sun %>
+filter by function ['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
+### TO DO LIST for Sun
 ```tasks
+path does not include LIFE/2025/WEEKLY NOTE/<% weeklyTitle %>
 due on <% sun %>
-created before <% sun %>
 filter by function ["TODO", "IN_PROGRESS", "DONE", "CANCELLED"].includes(task.status.type) && !['Scheduled', 'Rescheduled', 'Important', 'Location', 'Cake'].includes(task.status.name)
 ```
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% sun %>
-heading includes TO DO LIST
+heading includes "Today's tasks"
 ```
+### MEMO for Sun
 ```tasks
 path includes LIFE/2025/DAILY NOTE/<% sun %>
 heading includes MEMO

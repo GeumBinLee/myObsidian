@@ -1,0 +1,100 @@
+################################
+# 커밋 메시지 템플릿
+################################
+# <제목> (Jira와 연계하지 않을 경우 해당 부분 생략)
+# 제목 형식: [JIRA-이슈번호] 이모티콘 태그 - 제목 #[GitHub 이슈 번호]
+# 예시: [JIRA-1234] ✨ Feat: 사용자 로그인 기능 추가 #01
+#
+# [커밋 작성 기준]
+# - 하나의 작업(작은 단위)을 하나의 커밋으로 작성합니다.
+# - 매일 작업 종료 시(8시간 기준) 최소 1개의 커밋을 작성하는 것을 권장합니다.
+################################
+# 아래 영역에 제목을 작성해 주세요
+
+# 공백 영역
+
+# 아래 영역에 본문을 작성해 주세요
+
+################################
+# < 본문 커밋 컨벤션 >
+# - 커밋에 대한 상세 내용을 작성합니다.
+# - "무엇을", "왜" 변경했는지 작성합니다.
+# - 변경 사항의 배경과 이유를 간략히 설명합니다.
+# - 한 줄에 72자를 넘기지 않도록 작성합니다.
+# 
+# 예시:
+# - 사용자 로그인 시 비밀번호 암호화 추가
+# - 암호화 적용 이유: 보안 강화
+# - 기존 로그인 로직과의 충돌 방지를 위해 코드 분리
+#
+################################
+# <태그 및 이모티콘>
+# 아래는 사용 가능한 모든 태그와 그 설명입니다.
+# 이모지와 이모지명 둘 중 하나만 사용
+# 예를 들어 ":sparkles Feat:" 작성 시 자동으로 "✨ Feat"로 변환
+# 기능 관련
+# :sparkles ✨ Feat: 새로운 기능 추가
+# :construction 🚧 Feat: 작업 진행 중
+# :children_crossing 🚸 Feat: 사용자 경험/사용성 개선
+# :building_construction 🏗️ Feat: 아키텍처 변경
+# :chart_with_upwards_trend 📈 Feat: 분석 또는 추적 코드 추가 또는 수정
+# :triangular_flag_on_post 🚩 Feat: 실험적 기능 플래그 추가, 수정 또는 제거
+# :mobile_phone 📱 Feat: 반응형 디자인 작업
+# :spool_of_thread 🧵 Feat: 멀티스레딩 또는 동시성 관련 코드 추가
+# :necktie 👔 Feat: 비즈니스 로직 추가 또는 수정
+# :passport_control 🛂 Feat: 인증, 권한 및 역할 관련 작업
+# :safety_vest 🦺 Feat: 유효성 검사 관련 코드 추가 또는 수정
+#
+# 버그 및 수정
+# :bug 🐛 Fix: 버그 수정
+# :ambulance 🚑️ Hotfix: 긴급 수정
+# :adhesive_bandage 🩹 Fix: 간단한 비치명적 이슈 수정
+# :lock 🔒️ Fix: 보안 또는 개인정보 문제 해결
+# :closed_lock_with_key 🔐 Fix: 비밀값 추가 또는 수정
+# :rotating_light 🚨 Fix: 컴파일러/린터 경고 수정
+# :green_heart 💚 Fix: CI 빌드 문제 해결
+# :extraterrestrial_alien 👽 Fix: 외부 API 변경으로 인한 코드 수정
+#
+# 리팩토링
+# :recycle ♻️ Refactor: 기능 변경 없이 코드 리팩토링
+# :fire 🔥 Remove: 불필요한 코드/파일 삭제
+# :coffin ⚰️ Chore: 사용되지 않는 코드 제거
+# :truck 🚚 Chore: 리소스 이동 또는 이름 변경
+#
+# 스타일 및 문서화
+# :lipstick 💄 Style: UI 및 스타일 파일 추가 또는 수정
+# :art 🎨 Style: 코드 스타일 변경
+# :pencil2 ✏️ Typo: 코드 또는 문서의 오탈자 수정
+# :page_facing_up 📄 Docs: 문서 수정
+# :bulb 💡 Docs: 소스 코드에 주석 추가 또는 수정
+# :speech_balloon 💬 Docs: 텍스트 및 리터럴 추가 또는 수정
+#
+# 테스트 및 배포
+# :white_check_mark ✅ Test: 테스트 추가 또는 수정
+# :test_tube 🧪 Test: 실패하는 테스트 추가
+# :camera_flash 📸 Test: 스냅샷 추가 또는 수정
+# :rocket 🚀 Deploy: 배포 관련 작업
+# :green_heart 💚 Fix: CI 빌드 문제 해결
+# :construction_worker 👷 Chore: CI 빌드 시스템 추가 또는 수정
+#
+# 성능 및 개선
+# :zap ⚡️ Improve: 성능 개선
+# :mag 🔍 Improve: SEO 개선
+# :loud_sound 🔊 Chore: 로그 추가 또는 수정
+# :mute 🔇 Chore: 로그 제거
+
+# 의존성 및 기타 작업
+# :package 📦 Chore: 기타 변경사항
+# :heavy_plus_sign ➕ Add: 단순한 파일 또는 라이브러리 추가
+# :arrow_down ⬇️ Chore: 의존성 다운그레이드
+# :arrow_up ⬆️ Chore: 의존성 업그레이드
+# :pushpin 📌 Chore: 의존성을 특정 버전으로 고정
+
+# 기타 작업
+# :tada 🎉 Feat: 프로젝트 시작
+# :bento 🍱 Chore: 에셋 추가 또는 수정
+# :passport_control 🛂 Feat: 인증, 권한 및 역할 관련 작업
+# :see_no_evil 🙈 Chore: .gitignore 파일 추가 또는 수정
+# :egg 🥚 Feat: 이스터에그 추가 또는 수정
+# :globe_with_meridians 🌐 Feat: 국제화 및 다국어 지원 추가
+################################

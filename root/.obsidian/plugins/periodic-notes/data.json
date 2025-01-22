@@ -15,7 +15,7 @@
     "enabled": true
   },
   "monthly": {
-    "format": "YYYY년 M월",
+    "format": "YYYY-MM",
     "template": "TEMPLATES/LIFE/monthly note.md",
     "folder": "LIFE/2025/MONTHLY NOTE",
     "enabled": true
@@ -30,6 +30,6 @@
     "format": "YYYY년",
     "template": "TEMPLATES/LIFE/yearly note.md",
     "folder": "LIFE/2025/YEARLY NOTE",
-    "enabled": true
+    "enabled": false
   }
 }

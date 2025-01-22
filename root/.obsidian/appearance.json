@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "theme",
-    "fonts"
+    "fonts",
+    "dataview"
   ],
   "cssTheme": "AnuPpuccin"
 }

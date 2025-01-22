@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6f22851db2163cb",
+            "id": "a9863a31507239ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMPLATES/LIFE/weekly note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "weekly note"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#monthlynote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "right": {
     "id": "cec1c8876217e438",
@@ -145,7 +140,8 @@
               "title": "Outgoing links from 2025-01-21 (Tue)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "af97b418b2ddb5d0",
@@ -174,18 +170,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TEMPLATES/LIFE/weekly note.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of weekly note"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,18 +197,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f6f22851db2163cb",
+  "active": "a9863a31507239ab",
   "lastOpenFiles": [
     "LIFE/2025/WEEKLY NOTE/2025년 1월 4주차.md",
+    "LIFE/2025/MONTHLY NOTE/2025-01.md",
     "LIFE/2025/DAILY NOTE/2025-01-22 (Wed).md",
+    "LIFE/2025/DAILY NOTE/2025-01-23 (Thu).md",
     "TEMP/낙서장.md",
+    "LIFE/2025/DAILY NOTE/Invalid date.md",
     "TEMPLATES/LIFE/weekly note.md",
     "TEMPLATES/LIFE/daily note.md",
+    "TEMPLATES/LIFE/monthly note.md",
+    "LIFE/2025/WEEKLY NOTE/2025-01-26 (Sun).md",
+    "LIFE/2025/MONTHLY NOTE/2025년 1월.md",
     "LIFE/2025",
     "LIFE/WEEKLY NOTE/2025년 1월 4주차.md",
     "LIFE/DAILY NOTE/2025-01-23 (Thu).md",
     "LIFE/DAILY NOTE/2025-01-22 (Wed).md",
-    "TEMPLATES/LIFE/monthly note.md",
     "LIFE/WEEKLY NOTE/2025년 01월 4주차.md",
     "LIFE/DAILY NOTE/2025년 01월 4주차.md",
     "LIFE/DAILY NOTE/2025-01-24 (Fri).md",
@@ -226,11 +226,6 @@
     "Tasks Plugin - Review and check your Statuses 2025-01-22 03-54-37.md",
     "LIFE/DAILY NOTE/2025-01-21 (Tue).md",
     "root/LIFE/WEEKLY NOTE/2025년 1월 4주차.md",
-    "root/TEMPLATES/LIFE/daily note.md",
-    "root/LIFE/DAILY NOTE/2025-01-21 (Tue).md",
-    "root/TEMPLATES/LIFE/weekly note.md",
-    "root/TEMPLATES/LIFE/monthly note.md",
-    "root/WORK/to do list.md",
     "Obsidian.zip",
     "root/WORK/읽을거리",
     "root/TEMPLATES/WORK",
