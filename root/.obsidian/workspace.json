@@ -11,10 +11,30 @@
             "id": "a9863a31507239ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WORK/to do list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "to do list"
+            }
+          },
+          {
+            "id": "e4936f98c0485985",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMP/낙서장.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "낙서장"
             }
           }
         ]
@@ -48,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#monthlynote",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root/LIFE/DAILY NOTE/2025-01-21 (Tue).md",
+                "file": "LIFE/DAILY NOTE/2025-01-21 (Tue).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root/LIFE/DAILY NOTE/2025-01-21 (Tue).md",
+                "file": "LIFE/DAILY NOTE/2025-01-21 (Tue).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -170,17 +190,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "WORK/to do list.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of to do list"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,52 +220,6 @@
   },
   "active": "a9863a31507239ab",
   "lastOpenFiles": [
-    "LIFE/2025/WEEKLY NOTE/2025년 1월 4주차.md",
-    "LIFE/2025/MONTHLY NOTE/2025-01.md",
-    "LIFE/2025/DAILY NOTE/2025-01-22 (Wed).md",
-    "LIFE/2025/DAILY NOTE/2025-01-23 (Thu).md",
-    "TEMP/낙서장.md",
-    "LIFE/2025/DAILY NOTE/Invalid date.md",
-    "TEMPLATES/LIFE/weekly note.md",
-    "TEMPLATES/LIFE/daily note.md",
-    "TEMPLATES/LIFE/monthly note.md",
-    "LIFE/2025/WEEKLY NOTE/2025-01-26 (Sun).md",
-    "LIFE/2025/MONTHLY NOTE/2025년 1월.md",
-    "LIFE/2025",
-    "LIFE/WEEKLY NOTE/2025년 1월 4주차.md",
-    "LIFE/DAILY NOTE/2025-01-23 (Thu).md",
-    "LIFE/DAILY NOTE/2025-01-22 (Wed).md",
-    "LIFE/WEEKLY NOTE/2025년 01월 4주차.md",
-    "LIFE/DAILY NOTE/2025년 01월 4주차.md",
-    "LIFE/DAILY NOTE/2025-01-24 (Fri).md",
-    "LIFE/DAILY NOTE/2025-01-30 (Thu).md",
-    "LIFE/DAILY NOTE/2025-01-25 (Sat).md",
-    "2025-01-25 (Sat).md",
-    "Untitled.md",
-    "2025-01-23 (Thu).md",
-    "WORK/to do list.md",
-    "Tasks Plugin - Review and check your Statuses 2025-01-22 03-54-37.md",
-    "LIFE/DAILY NOTE/2025-01-21 (Tue).md",
-    "root/LIFE/WEEKLY NOTE/2025년 1월 4주차.md",
-    "Obsidian.zip",
-    "root/WORK/읽을거리",
-    "root/TEMPLATES/WORK",
-    "root/TEMPLATES/LIFE",
-    "root/LIFE/YEARLY NOTE",
-    "root/LIFE/WEEKLY NOTE",
-    "root/LIFE/DAILY NOTE",
-    "root/LIFE/QUARTERLY NOTE",
-    "root/LIFE/MONTHLY NOTE",
-    "금빈/옵시디언 사용법/attachments/사이드바 드래그 앤 드랍.png",
-    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120630.png",
-    "금빈/옵시디언 사용법/attachments/사이드바.png",
-    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120613.png",
-    "금빈/옵시디언 사용법/attachments/Appearance 탭 선택.png",
-    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120610.png",
-    "금빈/옵시디언 사용법/attachments/Pasted image 20250116120603.png",
-    "금빈/옵시디언 사용법/attachments/테마 목록 확인하기.png",
-    "금빈/옵시디언 사용법/attachments/설정 가기.png",
-    "금빈/옵시디언 사용법/attachments/새 Vault 만들기.png",
-    "Untitled.canvas"
+    "TEMPLATES/LIFE/daily note.md"
   ]
 }

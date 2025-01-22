@@ -42,8 +42,5 @@
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
     ""
-  ],
-  "startup_templates": [
-    "root/TEMPLATES/LIFE/daily note.md"
   ]
 }
