@@ -1,9 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-  
-
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",

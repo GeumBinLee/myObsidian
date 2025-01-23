@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f265b22c06bd11",
+        "id": "ab923489f524eb89",
         "type": "tabs",
         "children": [
           {
-            "id": "a9863a31507239ab",
+            "id": "efb0355abfe1831c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/to do list.md",
+                "file": "REACT/useEffect 사용하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to do list"
-            }
-          },
-          {
-            "id": "e4936f98c0485985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEMP/낙서장.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "낙서장"
+              "title": "useEffect 사용하기"
             }
           }
         ]
@@ -71,8 +56,8 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "cec1c8876217e438",
@@ -159,9 +144,22 @@
               "icon": "links-going-out",
               "title": "Outgoing links from 2025-01-21 (Tue)"
             }
+          },
+          {
+            "id": "0e92ebf3775d259e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af97b418b2ddb5d0",
@@ -191,20 +189,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/to do list.md"
+                "file": "REACT/useEffect 사용하기.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of to do list"
+              "title": "Outline of useEffect 사용하기"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,8 +218,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a9863a31507239ab",
+  "active": "efb0355abfe1831c",
   "lastOpenFiles": [
-    "TEMPLATES/LIFE/daily note.md"
+    "REACT/useEffect 사용하기.md",
+    "WORK/to do list.md",
+    "REACT",
+    "CANVAS/Untitled.canvas",
+    "CANVAS",
+    "LIFE/2025/DAILY NOTE/2025-01-23 (Thu).md",
+    "TEMP/낙서장.md",
+    "WORK/읽을거리/뒤로 가기 제스처 감지하기.md",
+    "LIFE/2025/DAILY NOTE/2025-01-22 (Wed).md",
+    "TEMPLATES/LIFE/daily note.md",
+    "WORK/Untitled.md",
+    "WORK/Untitled 1.md"
   ]
 }

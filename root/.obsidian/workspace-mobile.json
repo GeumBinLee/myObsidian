@@ -11,10 +11,15 @@
             "id": "d1110e49193c64a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TEMP/낙서장.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "낙서장"
             }
           }
         ]
@@ -77,6 +82,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "bc97149079437c56",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -91,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WORK/읽을거리/뒤로 가기 제스처 감지하기.md",
+            "file": "TEMP/낙서장.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,12 +155,22 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "플러그인이 더 이상 활성화되지 않음"
         }
       },
       {
         "id": "89d64b48548307db",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "플러그인이 더 이상 활성화되지 않음"
+        }
+      },
+      {
+        "id": "891291bc4abf5602",
         "type": "leaf",
         "state": {
           "type": "reminder-list",
@@ -155,23 +184,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "d1110e49193c64a6",
   "lastOpenFiles": [
+    "WORK/읽을거리/뒤로 가기 제스처 감지하기.md",
     "LIFE/DAILY NOTE/2025-01-22 (Wed).md",
-    "LIFE/WEEKLY NOTE/2025년 1월 4주차.md",
-    "WORK/읽을거리/뒤로 가기 제스처 감지하기.md"
+    "LIFE/WEEKLY NOTE/2025년 1월 4주차.md"
   ]
 }

@@ -4,5 +4,6 @@
   "attachmentFolderPath": "./attachments",
   "readableLineLength": true,
   "spellcheck": false,
-  "foldHeading": true
+  "foldHeading": true,
+  "promptDelete": false
 }
