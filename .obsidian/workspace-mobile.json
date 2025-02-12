@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "2bfcba5631c48e47",
+    "type": "split",
+    "children": [
+      {
+        "id": "32ba2a8ac4e81a28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1110e49193c64a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIFE/2025/MONTHLY NOTE/2025-02.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "711e4183f6e0d8a0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b1bb139b6b9021d6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "acc3e3400aa3a57e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a6598c116aeb27a9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "0f60659f453e3bd7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "bc97149079437c56",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3868b2ff88bde000",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7f83a4c22a357e7a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "WORK/읽을거리/ListView 아이템 재활용 이슈.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f31f821c27d729b5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "LIFE/DAILY NOTE/2025-01-21 (Tue).md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0fcb25102b26f60c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "LIFE/DAILY NOTE/2025-01-21 (Tue).md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "807b4f618061dc3c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "플러그인이 더 이상 활성화되지 않음"
+        }
+      },
+      {
+        "id": "89d64b48548307db",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "플러그인이 더 이상 활성화되지 않음"
+        }
+      },
+      {
+        "id": "891291bc4abf5602",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "clock",
+          "title": "Reminders"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d1110e49193c64a6",
+  "lastOpenFiles": [
+    "LIFE/2025/DAILY NOTE/02/2025-02-03.md",
+    "TEMPLATES/LIFE/daily note.md",
+    "LIFE/2025/DAILY NOTE/01/2025-01-31.md",
+    "LIFE/2025/DAILY NOTE/01/2025-01-30.md",
+    "WORK/읽을거리/`GoRouterState` 상속과 `state.extra` 활용 방식의 차이 및 효율성.md",
+    "WORK/읽을거리/MultiBlocProvider VS. GetIt.md",
+    "WORK/읽을거리/AbsorberPointer.md",
+    "WORK/읽을거리/네트워크 관련 파일 리팩토링.md",
+    "WORK/읽을거리/`.gitattributes` 파일.md",
+    "WORK/읽을거리/ListView 아이템 재활용 이슈.md",
+    "WORK/읽을거리/TextFormField의 controller와 intialValue.md",
+    "WORK/읽을거리/TextFormField의 `readOnly` vs. `enabled`.md",
+    "LIFE/2025/DAILY NOTE/01/2025-01-29.md",
+    "LIFE/2025/DAILY NOTE/01/2025-01-28.md",
+    "LIFE/2025/DAILY NOTE/01/2025-01-27.md",
+    "LIFE/2025/WEEKLY NOTE/2025-01-W05.md",
+    "LIFE/2025/DAILY NOTE/2025-01-28.md",
+    "WORK/읽을거리/go_router.md",
+    "FLUTTER/1. Flutter Back to BASIC/6. Understand Keys - Say bye to UI bugs.md",
+    "FLUTTER/1. Flutter Back to BASIC/2. StatefulWidget vs. StatelessWidget.md",
+    "FLUTTER/1. Flutter Back to BASIC/1. Introduction to Widgets.md",
+    "WORK/to do list.md",
+    "WORK/idea.md",
+    "LIFE/2025/DAILY NOTE/2025-01-28 (Tue).md",
+    "TEMP/낙서장.md",
+    "WORK/읽을거리/뒤로 가기 제스처 감지하기.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "readableLineLength": true,
+  "spellcheck": false,
+  "foldHeading": true,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "mobileQuickRibbonItem": ""
+}
