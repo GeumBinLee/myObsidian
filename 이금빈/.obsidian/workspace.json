@@ -1,0 +1,363 @@
+{
+  "main": {
+    "id": "0e863c2fbd8aea8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "67affed116294c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5b5691de5da4a5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/c/67ec382b-6354-8002-9a2b-a61d3cb85cd8",
+                "title": "온보딩 타이밍 추천",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "온보딩 타이밍 추천"
+            }
+          },
+          {
+            "id": "b1c27f098a86cdd0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://appstoreconnect.apple.com/apps/6744141110/distribution/ios/version/inflight",
+                "title": "App Store Connect",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "App Store Connect"
+            }
+          },
+          {
+            "id": "383cfed380efcb54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIFE/2025/DAILY NOTE/04/2025-04-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-06"
+            }
+          },
+          {
+            "id": "f7a54e58ba712ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 📌 Area 📌/영어/유용한 사이트 모음.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "유용한 사이트 모음"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1239f9c1863cfd2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9ea6e1a16e097b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14882e6d674e7165",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f99db1cfa4f6463",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "25ffc819efeb7213",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2f0c5a2f1f0f80f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e92ebf3775d259e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5026054382324
+  },
+  "right": {
+    "id": "cec1c8876217e438",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bebd6fb5ccc8512",
+        "type": "tabs",
+        "dimension": 31.238095238095237,
+        "children": [
+          {
+            "id": "79e49a3e679ae969",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "63e8791b4aa390e6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=tfmwbxBKPh0&list=PLx09FHnfgcWiEOs2WBP8PEslu1RMvGUgD&index=29",
+                "title": "[MV] ZO ZAZZ(조째즈) _ Don`t you know(PROD.ROCOBERRY)(모르시나요(PROD.로코베리)) - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "[MV] ZO ZAZZ(조째즈) _ Don`t you know(PROD.ROCOBERRY)(모르시나요(PROD.로코베리)) - YouTube"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "af97b418b2ddb5d0",
+        "type": "tabs",
+        "dimension": 36.47619047619048,
+        "children": [
+          {
+            "id": "364199f6c1ed669c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "5ec5b2ba87d3d846",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b7f264e59e4416f",
+        "type": "tabs",
+        "dimension": 32.285714285714285,
+        "children": [
+          {
+            "id": "88716f5f61bd44df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LIFE/2025/DAILY NOTE/04/2025-04-06.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-04-06"
+            }
+          },
+          {
+            "id": "0545850ceebbe4b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e950dcb550cfa14a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEMPLATES/LIFE/monthly note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from monthly note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 434.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "383cfed380efcb54",
+  "lastOpenFiles": [
+    "2. 📌 Area 📌/영어/유용한 사이트 모음.md",
+    "1. 🗂️ Project 🗂️/이직/참고자료.md",
+    "2. 📌 Area 📌/프로그래밍/링크 모음.md",
+    "2. 📌 Area 📌/일본어/1. 韓国ユン大統領がやめさせられた.md",
+    "TEMPLATES/STUDY/japanese.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-06.md",
+    "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
+    "LIFE/2025/DAILY NOTE/03/2025-04-06.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-03.md",
+    "투두리.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-04.md",
+    "2025-04-04.md",
+    "2. 📌 Area 📌/경제 신문 스크랩/2025/4..md",
+    "2. 📌 Area 📌/경제 신문 스크랩/2025/3. 14F - 디지털 화폐 써보고 싶은 사람?.md",
+    "LIFE/2025/DAILY NOTE/04/Untitled.md",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/BASIC/패키지명 설정하기.md",
+    "2. 📌 Area 📌/경제 신문 스크랩/유튜브 시청 리스트.md",
+    "2. 📌 Area 📌/영어/유튜브 스크립트/01. 6 things you probably need to hear.md",
+    "1. 🗂️ Project 🗂️/덕픽/덕픽 홈.md",
+    "LIFE/2025/MONTHLY NOTE/2025-04.md",
+    "LIFE/2025/MONTHLY NOTE/2025-03.md",
+    "LIFE/2025/MONTHLY NOTE/2025-02.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-02.md",
+    "LIFE/2025/WEEKLY NOTE/2025-04-W00.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-01.md",
+    "2025-04.md",
+    "LIFE/2001/DAILY NOTE/01",
+    "LIFE/2001/DAILY NOTE",
+    "LIFE/2001",
+    "LIFE/2025/DAILY NOTE/04",
+    "2. 📌 Area 📌/프로그래밍/REACT/3. React/attachments/2. JSX에서 최상위 태그는 반드시 하나여야 한다..png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/4. GA 플랫폼 별 SDK 추가.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/4. GA 위치 지정 및 사용 설정.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/4. GA 계정 설정.png",
+    "LIFE/2025/DAILY NOTE/03/attachments/Pasted image 20250314180658.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/3. 앱 알림 설정 2.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/3. 앱 알림 설정 1.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/파이어베이스/attachments/1. 작업공간 준비.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/파이어베이스/attachments",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/파이어베이스",
+    "이지은 누워서 종아리.mp3",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인/attachments/구글 - 액세스 차단 에러.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인/attachments/구글 - Google People API.png",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/BASIC",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인/attachments",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인",
+    "CANVAS/Untitled.canvas"
+  ]
+}

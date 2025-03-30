@@ -1,0 +1,89 @@
+{
+  "abbreviations": {
+    "eg.": {
+      "value": "for example",
+      "isEnabled": false,
+      "position": 9
+    },
+    "atm": {
+      "value": "at the moment",
+      "isEnabled": false,
+      "position": 10
+    },
+    "imo": {
+      "value": "in my opinion",
+      "isEnabled": false,
+      "position": 11
+    },
+    "w/": {
+      "value": "with",
+      "isEnabled": false,
+      "position": 12
+    },
+    "w/o": {
+      "value": "without",
+      "isEnabled": false,
+      "position": 13
+    },
+    "btw": {
+      "value": "by the way",
+      "isEnabled": false,
+      "position": 14
+    },
+    "afaik": {
+      "value": "as far as I know",
+      "isEnabled": false,
+      "position": 15
+    },
+    "rn": {
+      "value": "right now",
+      "isEnabled": false,
+      "position": 16
+    },
+    "-s": {
+      "value": "- [<]",
+      "isEnabled": true,
+      "position": 8
+    },
+    "-rs": {
+      "value": "- [>]",
+      "isEnabled": true,
+      "position": 7
+    },
+    "-t": {
+      "value": "- [ ]",
+      "isEnabled": true,
+      "position": 6
+    },
+    "-c": {
+      "value": "- [-]",
+      "isEnabled": true,
+      "position": 5
+    },
+    "-i": {
+      "value": "- [i]",
+      "isEnabled": true,
+      "position": 4
+    },
+    "-l": {
+      "value": "- [l]",
+      "isEnabled": true,
+      "position": 3
+    },
+    "-n": {
+      "value": "- [n]",
+      "isEnabled": true,
+      "position": 1
+    },
+    "-st": {
+      "value": "- [*]",
+      "isEnabled": true,
+      "position": 2
+    },
+    "-?": {
+      "value": "- [?]",
+      "isEnabled": true,
+      "position": 0
+    }
+  }
+}

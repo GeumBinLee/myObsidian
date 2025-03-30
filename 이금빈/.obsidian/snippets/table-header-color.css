@@ -1,0 +1,15 @@
+/* 테이블 헤더 배경색 변경 */
+.markdown-preview-view table th {
+  font-weight: bold; /* 텍스트 굵게 */
+  text-align: center; /* 텍스트 가운데 정렬 */
+  font-size: 13px;
+}
+
+/* 테이블 헤더에서 대체 색상 제거 */
+.markdown-preview-view table tr th:nth-child(odd),
+.markdown-preview-view table tr th:nth-child(even) {
+  /* background-color: rgb(239, 231, 231) !important; */
+  background-color: rgb(255, 235, 235) !important; /* 같은 배경색 강제 적용 */
+  /* 같은 배경색 강제 적용 */
+}
+

@@ -1,0 +1,69 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "TEMPLATES",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "LIFE/2025/DAILY NOTE",
+      "template": "TEMPLATES/LIFE/daily note.md"
+    },
+    {
+      "folder": "LIFE/2025/WEEKLY NOTE",
+      "template": "TEMPLATES/LIFE/weekly note.md"
+    },
+    {
+      "folder": "LIFE/2025/MONTHLY NOTE",
+      "template": "TEMPLATES/LIFE/monthly note.md"
+    },
+    {
+      "folder": "LIFE/2025/YEARLY NOTE",
+      "template": "TEMPLATES/LIFE/yearly note.md"
+    },
+    {
+      "folder": "1. 🗂️ Project 🗂️",
+      "template": "TEMPLATES/WORK/HOME.md"
+    },
+    {
+      "folder": "2. 📌 Area 📌/영어",
+      "template": "TEMPLATES/STUDY/english.md"
+    },
+    {
+      "folder": "2. 📌 Area 📌/경제 신문 스크랩",
+      "template": "TEMPLATES/STUDY/news.md"
+    },
+    {
+      "folder": "2. 📌 Area 📌/일본어",
+      "template": "TEMPLATES/STUDY/japanese.md"
+    },
+    {
+      "folder": "2. 📌 Area 📌/프로그래밍",
+      "template": "TEMPLATES/STUDY/default.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "TEMPLATES/LIFE/daily note.md"
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

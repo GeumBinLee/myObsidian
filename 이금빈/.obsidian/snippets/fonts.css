@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "D2Coding";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("D2Coding ligature Bold"),
+    url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/fonts/d2coding-ligature-bold-full.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/fonts/d2coding-ligature-bold-full.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/fonts/d2coding-ligature-bold-full.ttf") format("truetype");
+  unicode-range: U+0020-007E; /* 공백, 숫자, 영어 대소문자, 특수문자 */
+}
+
+@font-face {
+  font-family: "D2Coding";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("D2Coding ligature Regular"),
+    url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/fonts/d2coding-ligature-full.woff2") format("woff2"),
+    url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/fonts/d2coding-ligature-full.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/fonts/d2coding-ligature-full.ttf") format("truetype");
+  unicode-range: U+0020-007E; /* 공백, 숫자, 영어 대소문자, 특수문자 */
+}
+
+/* 한국어 폰트 */
+@font-face {
+  font-family: "RIDIBatang-subset";
+  src: url("https://cdn.jsdelivr.net/gh/TetraTheta/RIDIBatang-subset/dist/webfont/RIDIBatang-subset.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  /* unicode-range: U+AC00-D7A3; /* 한글 */
+}
+
+/* 일본어 폰트 */
+@font-face {
+  font-family: "NotoSansJP";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://fonts.gstatic.com/s/notosansjp/v52/-F63fjptAgt5VM-kVkqdyU8n1g.woff2") format("woff2");
+  unicode-range: U+3040-309F, /* 히라가나 */
+                 U+30A0-30FF, /* 가타카나 */
+                 U+3000-303F, /* 일본어 구두점 및 기호 */
+                 U+31F0-31FF, /* 가타카나 확장 */
+                 U+4E00-9FFF, /* 일본어 한자 */
+                 U+FF66-FF9F; /* 반각 가타카나 */
+}
+
+/* 옵시디언 전체 + 마크다운 프리뷰 및 에디터 */
+body,
+.workspace,
+.markdown-preview-section,
+.markdown-source-view.mod-cm6 .cm-sizer,
+.workspace-split.mod-left-split,
+.workspace-split.mod-left-split .side-dock,
+.workspace-split.mod-left-split .side-dock .workspace-leaf {
+  font-family: "NotoSansJP", "RIDIBatang-subset", "D2Coding",
+  "Yu Gothic Medium", "游ゴシック Medium", "Yu Gothic", "游ゴシック",
+  "Yu Gothic UI", "Meiryo", "メイリオ", sans-serif !important;
+  font-size: 12px;
+  line-height: 1.8 !important; /* 줄 간격 동일 */
+  letter-spacing: 0.02em !important; /* 글자 간격 동일 */
+}
+
+
+
+/* 모든 텍스트의 줄 간격을 강제로 2로 설정 */
+.markdown-source-view *,.markdown-preview-view * {
+  line-height: 2 !important;
+}
+
+/* 📌 HyperMD-header 스타일 강제 적용 */
+div.HyperMD-header-1.cm-line span.cm-header.cm-header-1,
+div.HyperMD-header-2.cm-line span.cm-header.cm-header-2,
+div.HyperMD-header-3.cm-line span.cm-header.cm-header-3,
+div.HyperMD-header-4.cm-line span.cm-header.cm-header-4,
+div.HyperMD-header-5.cm-line span.cm-header.cm-header-5,
+div.HyperMD-header-6.cm-line span.cm-header.cm-header-6 {
+  font-weight: bold !important;
+  line-height: 1.4 !important;
+}
+
+
+/* 모바일에서도 동일한 크기 유지 */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px !important;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "enabledCssSnippets": [
+    "dataview",
+    "theme",
+    "code-block",
+    "center-image",
+    "convert-scheduled-to-reminder",
+    "tasks-icon",
+    "table-header-color",
+    "fonts"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "showViewHeader": true,
+  "nativeMenus": true
+}
