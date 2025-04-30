@@ -2,12 +2,12 @@
   "calendar",
   "folder-note-plugin",
   "periodic-notes",
-  "obsidian-style-settings",
   "templater-obsidian",
   "quickadd",
   "abbreviations",
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-reminder-plugin",
-  "pomodoro-timer"
+  "pomodoro-timer",
+  "obsidian-style-settings"
 ]

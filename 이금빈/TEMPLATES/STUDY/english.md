@@ -2,7 +2,7 @@
 > 음성 파일 존재 시 삽입
 # header1
 ## header2
-> [!Note]- Study Note
+> [!Note] Study Note
 > ### **Vocabulary**
 > 1. 
 > ### ==Phrase==
@@ -12,7 +12,7 @@
 
 content
 ## header2
-> [!Note]- Study Note
+> [!Note] Study Note
 > ### **Vocabulary**
 > 1. 
 > ### ==Phrase==
@@ -22,7 +22,7 @@ content
 
 content
 ## header2
-> [!Note]- Study Note
+> [!Note] Study Note
 > ### **Vocabulary**
 > 1. 
 > ### ==Phrase==
@@ -32,7 +32,7 @@ content
 
 content
 ## header2
-> [!Note]- Study Note
+> [!Note] Study Note
 > ### **Vocabulary**
 > 1. 
 > ### ==Phrase==

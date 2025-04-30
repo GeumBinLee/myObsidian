@@ -6,7 +6,7 @@ const userTitle = await tp.system.prompt("이동할 폴더명을 입력하세요
 if (!userTitle) {
     console.warn("폴더명이 입력되지 않았습니다.");
 } else {
-    const destinationFolder = `🗂️ Project 🗂️/${userTitle}`;
+    const destinationFolder = `1. 🗂️ Project 🗂️/${userTitle}`;
 
     try {
         const folderExists = await app.vault.adapter.exists(destinationFolder);

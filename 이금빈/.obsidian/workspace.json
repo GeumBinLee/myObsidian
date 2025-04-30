@@ -8,26 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af5b5691de5da4a5",
+            "id": "95a1053df5ae8e35",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chatgpt.com/c/67ec382b-6354-8002-9a2b-a61d3cb85cd8",
-                "title": "온보딩 타이밍 추천",
+                "url": "https://play.google.com/console/u/2/developers/8801208685141080015/app/4973154401890871496/tracks/4701047418127292271?tab=testers",
+                "title": "출시 트랙 | DUCPICK | 찾아가는 즐거움 덕픽!",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "온보딩 타이밍 추천"
+              "title": "출시 트랙 | DUCPICK | 찾아가는 즐거움 덕픽!"
             }
           },
           {
-            "id": "b1c27f098a86cdd0",
+            "id": "8622d67a9d8c1810",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://appstoreconnect.apple.com/apps/6744141110/distribution/ios/version/inflight",
+                "url": "https://appstoreconnect.apple.com/login?targetUrl=%2Fteams%2F6b60af9d-5862-4be3-a254-2071de11b12d%2Fapps%2F6501978650%2Ftestflight%2Fios&authResult=FAILED",
                 "title": "App Store Connect",
                 "mode": "webview"
               },
@@ -36,36 +36,26 @@
             }
           },
           {
-            "id": "383cfed380efcb54",
+            "id": "9fff645e0a8be761",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "LIFE/2025/DAILY NOTE/04/2025-04-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://github.com/orgs/pictorial-team/projects/2/views/1",
+                "title": "Backlog · 덕픽 프로덕트 작업 보드",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "2025-04-06"
+              "icon": "globe-2",
+              "title": "Backlog · 덕픽 프로덕트 작업 보드"
             }
           },
           {
-            "id": "f7a54e58ba712ac7",
+            "id": "4e9e7c0ffa43bdf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 📌 Area 📌/영어/유용한 사이트 모음.md",
+                "file": "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,11 +70,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "유용한 사이트 모음"
+              "title": "2025-05-01"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,8 +152,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -179,7 +169,7 @@
       {
         "id": "2bebd6fb5ccc8512",
         "type": "tabs",
-        "dimension": 31.238095238095237,
+        "dimension": 32.937450514647665,
         "children": [
           {
             "id": "79e49a3e679ae969",
@@ -187,8 +177,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -197,12 +187,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.youtube.com/watch?v=tfmwbxBKPh0&list=PLx09FHnfgcWiEOs2WBP8PEslu1RMvGUgD&index=29",
-                "title": "[MV] ZO ZAZZ(조째즈) _ Don`t you know(PROD.ROCOBERRY)(모르시나요(PROD.로코베리)) - YouTube",
+                "url": "https://www.youtube.com/watch?v=RuyVBSZnQoY&list=PLx09FHnfgcWiEOs2WBP8PEslu1RMvGUgD&index=37",
+                "title": "[playlist] 하기 싫어도 하는게 퀸의🫶 마인드👈 - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "[MV] ZO ZAZZ(조째즈) _ Don`t you know(PROD.ROCOBERRY)(모르시나요(PROD.로코베리)) - YouTube"
+              "title": "[playlist] 하기 싫어도 하는게 퀸의🫶 마인드👈 - YouTube"
+            }
+          },
+          {
+            "id": "be89ca81d4f1a755",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.ebs.co.kr/onair?channelCodeString=iradio",
+                "title": "온에어 | 전 국민의 평생학교 EBS",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "온에어 | 전 국민의 평생학교 EBS"
             }
           }
         ],
@@ -211,10 +215,10 @@
       {
         "id": "af97b418b2ddb5d0",
         "type": "tabs",
-        "dimension": 36.47619047619048,
+        "dimension": 39.27157561361837,
         "children": [
           {
-            "id": "364199f6c1ed669c",
+            "id": "e7801d43774ba5af",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -229,8 +233,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -238,7 +242,7 @@
       {
         "id": "6b7f264e59e4416f",
         "type": "tabs",
-        "dimension": 32.285714285714285,
+        "dimension": 27.790973871733964,
         "children": [
           {
             "id": "88716f5f61bd44df",
@@ -246,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIFE/2025/DAILY NOTE/04/2025-04-06.md",
+                "file": "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-04-06"
+              "title": "Outline of 2025-05-01"
             }
           },
           {
@@ -291,7 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5,
+    "width": 421.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -302,62 +306,60 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "pomodoro-timer:Toggle timer panel": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "383cfed380efcb54",
+  "active": "4e9e7c0ffa43bdf0",
   "lastOpenFiles": [
-    "2. 📌 Area 📌/영어/유용한 사이트 모음.md",
-    "1. 🗂️ Project 🗂️/이직/참고자료.md",
-    "2. 📌 Area 📌/프로그래밍/링크 모음.md",
-    "2. 📌 Area 📌/일본어/1. 韓国ユン大統領がやめさせられた.md",
-    "TEMPLATES/STUDY/japanese.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-06.md",
+    "LIFE/2025/DAILY NOTE/05/2025-05-04.md",
+    "LIFE/2025/DAILY NOTE/05/2025-05-03.md",
+    "LIFE/2025/DAILY NOTE/05/2025-05-02.md",
+    "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-01.md",
+    "LIFE/2025/WEEKLY NOTE/2025-W19.md",
+    "LIFE/2025/MONTHLY NOTE/2025-05.md",
+    "LIFE/2025/DAILY NOTE/05/2025-05-05.md",
+    "LIFE/2025/WEEKLY NOTE/2025-W18.md",
+    "LIFE/2025/DAILY NOTE/04/2025-05-04.md",
+    "TEMPLATES/LIFE/monthly note.md",
+    "LIFE/2025/DAILY NOTE/04/2025-05-01.md",
     "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
-    "LIFE/2025/DAILY NOTE/03/2025-04-06.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-03.md",
-    "투두리.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-04.md",
-    "2025-04-04.md",
-    "2. 📌 Area 📌/경제 신문 스크랩/2025/4..md",
-    "2. 📌 Area 📌/경제 신문 스크랩/2025/3. 14F - 디지털 화폐 써보고 싶은 사람?.md",
-    "LIFE/2025/DAILY NOTE/04/Untitled.md",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/BASIC/패키지명 설정하기.md",
-    "2. 📌 Area 📌/경제 신문 스크랩/유튜브 시청 리스트.md",
-    "2. 📌 Area 📌/영어/유튜브 스크립트/01. 6 things you probably need to hear.md",
-    "1. 🗂️ Project 🗂️/덕픽/덕픽 홈.md",
     "LIFE/2025/MONTHLY NOTE/2025-04.md",
     "LIFE/2025/MONTHLY NOTE/2025-03.md",
     "LIFE/2025/MONTHLY NOTE/2025-02.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-02.md",
-    "LIFE/2025/WEEKLY NOTE/2025-04-W00.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-01.md",
-    "2025-04.md",
-    "LIFE/2001/DAILY NOTE/01",
-    "LIFE/2001/DAILY NOTE",
-    "LIFE/2001",
-    "LIFE/2025/DAILY NOTE/04",
-    "2. 📌 Area 📌/프로그래밍/REACT/3. React/attachments/2. JSX에서 최상위 태그는 반드시 하나여야 한다..png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/4. GA 플랫폼 별 SDK 추가.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/4. GA 위치 지정 및 사용 설정.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/4. GA 계정 설정.png",
-    "LIFE/2025/DAILY NOTE/03/attachments/Pasted image 20250314180658.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/3. 앱 알림 설정 2.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/4. Firebase/attachments/3. 앱 알림 설정 1.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/파이어베이스/attachments/1. 작업공간 준비.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/파이어베이스/attachments",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/파이어베이스",
-    "이지은 누워서 종아리.mp3",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인/attachments/구글 - 액세스 차단 에러.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인/attachments/구글 - Google People API.png",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/BASIC",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인/attachments",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인",
+    "TEMPLATES/LIFE/weekly note.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-28.md",
+    "LIFE/2025/WEEKLY NOTE/Untitled 2.md",
+    "LIFE/2025/WEEKLY NOTE/(old).md",
+    "2025-W18.md",
+    "Untitled.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-29.md",
+    "LIFE/2025/WEEKLY NOTE/2025-04-29.md",
+    "LIFE/2025/DAILY NOTE/2025-04",
+    "LIFE/2025/WEEKLY NOTE/2025-03-W05.md",
+    "LIFE/2025/WEEKLY NOTE/2025-W17.md",
+    "LIFE/2025/DAILY NOTE/05",
+    "4. 🫧 Archive 🫧/갭이어/attachments/신청서 작성항목.png",
+    "4. 🫧 Archive 🫧/갭이어/attachments",
+    "4. 🫧 Archive 🫧/갭이어",
+    "1. 🗂️ Project 🗂️/갭이어/attachments/신청서 작성항목.png",
+    "1. 🗂️ Project 🗂️/갭이어/attachments",
+    "🗂️ Project 🗂️/갭이어",
+    "🗂️ Project 🗂️",
+    "1. 🗂️ Project 🗂️/갭이어",
+    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 고공행진하는 금값.png",
+    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 100 밑으로 떨어진 달러 인덱스.png",
+    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 미국 10년물 국채 금리 추이.png",
+    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 양적 완화 - 총곱급 & 총수요 그래프.png",
+    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 양적 완화 - 화폐 공급 그래프.png",
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/attachments/2. What About All the Questions We Haven't Answered?.mp3",
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/attachments/default.mp3_ywr3ahjkcgo_e05068d9b86b37facc6a25e80646ab6e_42336998.mp3",
+    "3. 📚 Resource 📚/한입 런치박스/attachments/3. 연사 정보.png",
+    "3. 📚 Resource 📚/한입 런치박스/attachments/Pasted image 20250312121119.png",
+    "3. 📚 Resource 📚/한입 런치박스/attachments/1. 연사 정보.png",
     "CANVAS/Untitled.canvas"
   ]
 }

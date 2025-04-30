@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
+                "file": "2. 📌 Area 📌/영어/유튜브 스크립트/01. 6 things you probably need to hear.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "투두리스트(백로그) + 기타"
+              "title": "01. 6 things you probably need to hear"
             }
           }
         ]
@@ -103,8 +103,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -201,26 +201,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "13b833558ebfa769",
+  "active": "b1bb139b6b9021d6",
   "lastOpenFiles": [
+    "LIFE/2025/DAILY NOTE/04/2025-04-23.md",
     "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-20.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-19.md",
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/2. What About All the Questions We Haven't Answered?.md",
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/1. How Can We Get More Virtue and Less 'Virtue Signaling'?.md",
+    "TEMPLATES/STUDY/english.md",
+    "이지은 누워서 종아리.mp3",
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions",
+    "2. 📌 Area 📌/영어/팟캐스트",
+    "LIFE/2025/DAILY NOTE/04/2025-04-09.md",
+    "2. 📌 Area 📌/프로그래밍/아이디어/idea.md",
+    "2. 📌 Area 📌/영어/유용한 사이트 모음.md",
     "LIFE/2025/DAILY NOTE/04/2025-04-02.md",
     "2. 📌 Area 📌/영어/유튜브 스크립트/02. Our dangerous obsession with perfectionism is getting worse by Thomas Curran.md",
-    "이지은 누워서 종아리.mp3",
     "LIFE/2025/DAILY NOTE/04/2025-04-01.md",
     "LIFE/2025/DAILY NOTE/03/2025-03-29.md",
     "LIFE/2025/DAILY NOTE/03/2025-03-30.md",
     "LIFE/2025/DAILY NOTE/03/2025-03-31.md",
     "LIFE/2025-03-29.md",
     "LIFE/2025/DAILY NOTE/03/2025-03-28.md",
-    "2. 📌 Area 📌/프로그래밍/아이디어/idea.md",
     "LIFE/2025/DAILY NOTE/03/2025-03-26.md",
     "LIFE/2025/DAILY NOTE/03/2025-03-27.md",
     "2. 📌 Area 📌/경제 신문 스크랩/진행방법 & 필수 경제 용어 리스트.md",
@@ -237,22 +244,12 @@
     "LIFE/2025/WEEKLY NOTE/2025-03-W04.md",
     "LIFE/2025/WEEKLY NOTE/2025-03-W03.md",
     "LIFE/2025/DAILY NOTE/03/2025-03-21.md",
-    "LIFE/2025/WEEKLY NOTE/2025-03-W01.md",
-    "LIFE/2025/DAILY NOTE/03/2025-03-20.md",
-    "LIFE/2025/DAILY NOTE/03/2025-03-23.md",
-    "LIFE/2025/DAILY NOTE/03/2025-03-19.md",
-    "LIFE/2025/DAILY NOTE/03/2025-03-24 2.md",
-    "LIFE/2025/MONTHLY NOTE/2025-03.md",
-    "2. 📌 Area 📌/영어/유튜브 스크립트/01. 6 things you probably need to hear.md",
-    "2. 📌 Area 📌/영어/유튜브 스크립트/05. Harvard negotiator explains how to argue.md",
     "리액트 강의자료.pdf",
     "2. 📌 Area 📌/경제 신문 스크랩/attachments/속지포함_경제금융용어700선.pdf",
     "2. 📌 Area 📌/경제 신문 스크랩/attachments",
     "2. 📌 Area 📌/영어/뉴스",
     "2. 📌 Area 📌/경제 신문 스크랩/2025/3월",
     "2. 📌 Area 📌/경제 신문 스크랩/2025",
-    "2. 📌 Area 📌/경제 신문 스크랩",
-    "1. 🗂️ Project 🗂️/대학원",
-    "1. 🗂️ Project 🗂️/이직"
+    "2. 📌 Area 📌/경제 신문 스크랩"
   ]
 }
