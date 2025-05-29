@@ -7,7 +7,8 @@
     "tasks-icon",
     "table-header-color",
     "fonts",
-    "theme"
+    "theme",
+    "table"
   ],
   "cssTheme": "AnuPpuccin",
   "showViewHeader": true,

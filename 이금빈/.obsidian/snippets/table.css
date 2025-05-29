@@ -1,0 +1,25 @@
+/* 표 헤더 스타일 (읽기 모드) */
+.markdown-preview-view table th {
+  font-weight: bold !important;     /* 굵은 글씨 */
+  text-align: center !important;    /* 가운데 정렬 */
+  background-color: rgb(255, 235, 235) !important;  /* 배경색 통일 */
+}
+
+/* 표 본문 셀 스타일 (쓰기 + 읽기 모드 공통) */
+.markdown-source-view.mod-cm6 table,
+.markdown-preview-view table,
+.markdown-source-view.mod-cm6 table td,
+.markdown-preview-view table td,
+.markdown-source-view.mod-cm6 table th,
+.markdown-preview-view table th {
+  font-size: 12px !important;
+  line-height: 1.4 !important;
+  padding: 4px 8px !important;
+}
+
+/* 표 전체 폭 조절 */
+.markdown-source-view.mod-cm6 table,
+.markdown-preview-view table {
+  max-width: 100%;
+  table-layout: auto;
+}

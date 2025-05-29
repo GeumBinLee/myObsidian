@@ -4,58 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "67affed116294c5b",
+        "id": "10e55b20116bd059",
         "type": "tabs",
         "children": [
           {
-            "id": "95a1053df5ae8e35",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://play.google.com/console/u/0/developers/8801208685141080015/app/4973154401890871496/tracks/internal-testing?tab=testers",
-                "title": "내부 테스트 | DUCPIC | 팬덤 여행의 모든것!",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "내부 테스트 | DUCPIC | 팬덤 여행의 모든것!"
-            }
-          },
-          {
-            "id": "c663b21e286fd298",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://console.cloud.google.com/apis/credentials?authuser=0&hl=ko&inv=1&invt=AbylLg&project=ducpic&pli=1",
-                "title": "사용자 인증 정보 – API 및 서비스 – ducpic – Google Cloud Console",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "사용자 인증 정보 – API 및 서비스 – ducpic – Google Cloud Console"
-            }
-          },
-          {
-            "id": "e361dd3f963c151a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://appstoreconnect.apple.com/login?targetUrl=%2Fapps%2F6501978650%2Fdistribution%2Fios%2Fversion%2Finflight&authResult=FAILED",
-                "title": "App Store Connect",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "App Store Connect"
-            }
-          },
-          {
-            "id": "1208e3d69c21aa15",
+            "id": "a9e248ced5b343d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIFE/2025/WEEKLY NOTE/2025-W23.md",
+                "file": "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/1. How Can We Get More Virtue and Less 'Virtue Signaling'?.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1. How Can We Get More Virtue and Less 'Virtue Signaling'?"
+            }
+          },
+          {
+            "id": "fbec3cf8d61aec2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 🗂️ Project 🗂️/영어 다이어리/아이디어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,31 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-W23"
+              "title": "아이디어"
             }
           },
           {
-            "id": "2d1f25dc3a92c645",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://console.firebase.google.com/u/0/project/ducpic/config/env/firebase",
-                "title": "ducpic - Remote Config - 매개변수 - Firebase Console",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ducpic - Remote Config - 매개변수 - Firebase Console"
-            }
-          },
-          {
-            "id": "f98c33d8512b8114",
+            "id": "6883eae6128e031d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 📌 Area 📌/프로그래밍/아이디어/idea.md",
-                "mode": "source",
+                "file": "2. 📌 Area 📌/프로그래밍/FLUTTER/1. Flutter Back to BASIC/1. Introduction to Widgets.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -108,25 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "idea"
-            }
-          },
-          {
-            "id": "93cf8422cd418c2d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://chatgpt.com/g/g-p-6766efeb12288191a593e69216ca5015-eituji/c/6837e8b0-c95c-8002-ba00-5e3ee2665218",
-                "title": "에이투지 - GoRouter 초기화 및 리디렉션",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "에이투지 - GoRouter 초기화 및 리디렉션"
+              "title": "1. Introduction to Widgets"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +102,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -166,7 +119,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -205,7 +158,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -287,7 +240,7 @@
               "type": "timer-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -352,30 +305,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "93cf8422cd418c2d",
+  "active": "a9e248ced5b343d8",
   "lastOpenFiles": [
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/2. What About All the Questions We Haven't Answered?.md",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/1. Flutter Back to BASIC/1. Introduction to Widgets.md",
+    "2. 📌 Area 📌/프로그래밍/REACT/3. React/attachments/1. 리액트의 기술적 특징 3.png",
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/1. How Can We Get More Virtue and Less 'Virtue Signaling'?.md",
+    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/attachments/1. How Can We Get More Virtue and Less 'Virtue Signaling'?.mp3",
+    "1. 🗂️ Project 🗂️/영어 다이어리/아이디어.md",
+    "1. 🗂️ Project 🗂️/영어 다이어리/영어 다이어리.md",
+    "플러터앱 배포 관련 사이트.md",
+    "1. 🗂️ Project 🗂️/에이투지/에이투지 홈.md",
+    "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529211006.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210730.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210525.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210609.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210620.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210742.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210958.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210551.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments/Pasted image 20250529210339.png",
+    "1. 🗂️ Project 🗂️/영어 다이어리/attachments",
+    "1. 🗂️ Project 🗂️/영어 다이어리 홈",
+    "1. 🗂️ Project 🗂️/영어 다이어리/Untitled 1.md",
+    "2. 📌 Area 📌/프로그래밍/아이디어/idea.md",
     "LIFE/2025/WEEKLY NOTE/2025-W23.md",
+    "1. 🗂️ Project 🗂️/영어 다이어리",
+    "2. 📌 Area 📌/프로그래밍/아이디어/attachments",
     "LIFE/2025/WEEKLY NOTE/2025-03-W01.md",
     "LIFE/2025/MONTHLY NOTE/2025-05.md",
     "LIFE/2025/MONTHLY NOTE/2025-06.md",
     "LIFE/Invalid date/MONTHLY NOTE/Invalid date.md.md",
     "LIFE/Invalid date/MONTHLY NOTE",
     "LIFE/Invalid date",
-    "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
     "TEMPLATES/LIFE/monthly note.md",
     "LIFE/2025/WEEKLY NOTE/2025-W22.md",
-    "2. 📌 Area 📌/프로그래밍/아이디어/idea.md",
     "3. 📚 Resource 📚/위시리스트/의류.md",
-    "1. 🗂️ Project 🗂️/에이투지/에이투지 홈.md",
     "LIFE/2025/WEEKLY NOTE/2025-W21.md",
     "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
     "LIFE/2025/DAILY NOTE/05/2025-05-14.md",
@@ -386,28 +361,7 @@
     "1. 🗂️ Project 🗂️/덕픽/덕픽 홈.md",
     "LIFE/2025/WEEKLY NOTE/2025-W20.md",
     "LIFE/2025/DAILY NOTE/04/2025-04-28.md",
-    "2. 📌 Area 📌/프로그래밍/FLUTTER/BASIC/패키지명 설정하기.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-30.md",
-    "1. 🗂️ Project 🗂️/에이투지/Test Flight 관련 자료.md",
-    "LIFE/2025/WEEKLY NOTE/2025-W19.md",
-    "LIFE/2025/DAILY NOTE/05/2025-05-04.md",
-    "LIFE/2025/DAILY NOTE/05/2025-05-03.md",
     "LIFE/2025/DAILY NOTE/05",
-    "attachments/100x100.png",
-    "attachments",
-    "4. 🫧 Archive 🫧/갭이어/attachments/신청서 작성항목.png",
-    "4. 🫧 Archive 🫧/갭이어/attachments",
-    "4. 🫧 Archive 🫧/갭이어",
-    "1. 🗂️ Project 🗂️/갭이어/attachments/신청서 작성항목.png",
-    "1. 🗂️ Project 🗂️/갭이어/attachments",
-    "🗂️ Project 🗂️/갭이어",
-    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 고공행진하는 금값.png",
-    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 100 밑으로 떨어진 달러 인덱스.png",
-    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 미국 10년물 국채 금리 추이.png",
-    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 양적 완화 - 총곱급 & 총수요 그래프.png",
-    "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 양적 완화 - 화폐 공급 그래프.png",
-    "3. 📚 Resource 📚/한입 런치박스/attachments/3. 연사 정보.png",
-    "3. 📚 Resource 📚/한입 런치박스/attachments/Pasted image 20250312121119.png",
     "CANVAS/Untitled.canvas"
   ]
 }
