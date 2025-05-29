@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. 📌 Area 📌/영어/유튜브 스크립트/01. 6 things you probably need to hear.md",
+                "file": "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01. 6 things you probably need to hear"
+              "title": "투두리스트(백로그) + 기타"
             }
           }
         ]
@@ -194,19 +194,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pomodoro-timer:Toggle timer panel": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "b1bb139b6b9021d6",
+  "active": "13b833558ebfa769",
   "lastOpenFiles": [
+    "2. 📌 Area 📌/영어/유튜브 스크립트/01. 6 things you probably need to hear.md",
     "LIFE/2025/DAILY NOTE/04/2025-04-23.md",
     "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
     "LIFE/2025/DAILY NOTE/04/2025-04-20.md",
@@ -243,7 +242,6 @@
     "2. 📌 Area 📌/프로그래밍/FLUTTER/소셜 로그인/attachments/구글 - iOS 클라이언트 설정.png",
     "LIFE/2025/WEEKLY NOTE/2025-03-W04.md",
     "LIFE/2025/WEEKLY NOTE/2025-03-W03.md",
-    "LIFE/2025/DAILY NOTE/03/2025-03-21.md",
     "리액트 강의자료.pdf",
     "2. 📌 Area 📌/경제 신문 스크랩/attachments/속지포함_경제금융용어700선.pdf",
     "2. 📌 Area 📌/경제 신문 스크랩/attachments",

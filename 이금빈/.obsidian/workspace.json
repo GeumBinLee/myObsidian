@@ -13,21 +13,35 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://play.google.com/console/u/2/developers/8801208685141080015/app/4973154401890871496/tracks/4701047418127292271?tab=testers",
-                "title": "출시 트랙 | DUCPICK | 찾아가는 즐거움 덕픽!",
+                "url": "https://play.google.com/console/u/0/developers/8801208685141080015/app/4973154401890871496/tracks/internal-testing?tab=testers",
+                "title": "내부 테스트 | DUCPIC | 팬덤 여행의 모든것!",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "출시 트랙 | DUCPICK | 찾아가는 즐거움 덕픽!"
+              "title": "내부 테스트 | DUCPIC | 팬덤 여행의 모든것!"
             }
           },
           {
-            "id": "8622d67a9d8c1810",
+            "id": "c663b21e286fd298",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://appstoreconnect.apple.com/login?targetUrl=%2Fteams%2F6b60af9d-5862-4be3-a254-2071de11b12d%2Fapps%2F6501978650%2Ftestflight%2Fios&authResult=FAILED",
+                "url": "https://console.cloud.google.com/apis/credentials?authuser=0&hl=ko&inv=1&invt=AbylLg&project=ducpic&pli=1",
+                "title": "사용자 인증 정보 – API 및 서비스 – ducpic – Google Cloud Console",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "사용자 인증 정보 – API 및 서비스 – ducpic – Google Cloud Console"
+            }
+          },
+          {
+            "id": "e361dd3f963c151a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://appstoreconnect.apple.com/login?targetUrl=%2Fapps%2F6501978650%2Fdistribution%2Fios%2Fversion%2Finflight&authResult=FAILED",
                 "title": "App Store Connect",
                 "mode": "webview"
               },
@@ -36,26 +50,12 @@
             }
           },
           {
-            "id": "9fff645e0a8be761",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/orgs/pictorial-team/projects/2/views/1",
-                "title": "Backlog · 덕픽 프로덕트 작업 보드",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Backlog · 덕픽 프로덕트 작업 보드"
-            }
-          },
-          {
-            "id": "4e9e7c0ffa43bdf0",
+            "id": "1208e3d69c21aa15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
+                "file": "LIFE/2025/WEEKLY NOTE/2025-W23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,11 +70,63 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-01"
+              "title": "2025-W23"
+            }
+          },
+          {
+            "id": "2d1f25dc3a92c645",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://console.firebase.google.com/u/0/project/ducpic/config/env/firebase",
+                "title": "ducpic - Remote Config - 매개변수 - Firebase Console",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ducpic - Remote Config - 매개변수 - Firebase Console"
+            }
+          },
+          {
+            "id": "f98c33d8512b8114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 📌 Area 📌/프로그래밍/아이디어/idea.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "idea"
+            }
+          },
+          {
+            "id": "93cf8422cd418c2d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/g/g-p-6766efeb12288191a593e69216ca5015-eituji/c/6837e8b0-c95c-8002-ba00-5e3ee2665218",
+                "title": "에이투지 - GoRouter 초기화 및 리디렉션",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "에이투지 - GoRouter 초기화 및 리디렉션"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +149,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -114,7 +166,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -153,14 +205,15 @@
                 "searchQuery": ""
               },
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5026054382324
+    "width": 310.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "cec1c8876217e438",
@@ -187,12 +240,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.youtube.com/watch?v=RuyVBSZnQoY&list=PLx09FHnfgcWiEOs2WBP8PEslu1RMvGUgD&index=37",
-                "title": "[playlist] 하기 싫어도 하는게 퀸의🫶 마인드👈 - YouTube",
+                "url": "https://www.youtube.com/watch?v=ci8ps2ZTFCU&list=PLx09FHnfgcWiEOs2WBP8PEslu1RMvGUgD&index=35",
+                "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭💿] 너도 내가 미쳤다고 생각해?ㅣ치명적인 빌런 전용 팝송 플레이리스트 - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "[playlist] 하기 싫어도 하는게 퀸의🫶 마인드👈 - YouTube"
+              "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭💿] 너도 내가 미쳤다고 생각해?ㅣ치명적인 빌런 전용 팝송 플레이리스트 - YouTube"
             }
           },
           {
@@ -234,7 +287,7 @@
               "type": "timer-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -250,13 +303,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-05-01"
+              "title": "개요"
             }
           },
           {
@@ -300,66 +352,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "templater-obsidian:Templater": false,
-      "pomodoro-timer:Toggle timer panel": false,
-      "periodic-notes:Open today": false,
       "periodic-notes:Open this week": false
     }
   },
-  "active": "4e9e7c0ffa43bdf0",
+  "active": "93cf8422cd418c2d",
   "lastOpenFiles": [
+    "LIFE/2025/WEEKLY NOTE/2025-W23.md",
+    "LIFE/2025/WEEKLY NOTE/2025-03-W01.md",
+    "LIFE/2025/MONTHLY NOTE/2025-05.md",
+    "LIFE/2025/MONTHLY NOTE/2025-06.md",
+    "LIFE/Invalid date/MONTHLY NOTE/Invalid date.md.md",
+    "LIFE/Invalid date/MONTHLY NOTE",
+    "LIFE/Invalid date",
+    "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
+    "TEMPLATES/LIFE/monthly note.md",
+    "LIFE/2025/WEEKLY NOTE/2025-W22.md",
+    "2. 📌 Area 📌/프로그래밍/아이디어/idea.md",
+    "3. 📚 Resource 📚/위시리스트/의류.md",
+    "1. 🗂️ Project 🗂️/에이투지/에이투지 홈.md",
+    "LIFE/2025/WEEKLY NOTE/2025-W21.md",
+    "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
+    "LIFE/2025/DAILY NOTE/05/2025-05-14.md",
+    "1. 🗂️ Project 🗂️/취직, 이직/유튜브 시청 리스트.md",
+    "LIFE/Invalid date/DAILY NOTE/Invalid date/2025-05-14.md",
+    "LIFE/Invalid date/DAILY NOTE/Invalid date",
+    "LIFE/Invalid date/DAILY NOTE",
+    "1. 🗂️ Project 🗂️/덕픽/덕픽 홈.md",
+    "LIFE/2025/WEEKLY NOTE/2025-W20.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-28.md",
+    "2. 📌 Area 📌/프로그래밍/FLUTTER/BASIC/패키지명 설정하기.md",
+    "LIFE/2025/DAILY NOTE/04/2025-04-30.md",
+    "1. 🗂️ Project 🗂️/에이투지/Test Flight 관련 자료.md",
+    "LIFE/2025/WEEKLY NOTE/2025-W19.md",
     "LIFE/2025/DAILY NOTE/05/2025-05-04.md",
     "LIFE/2025/DAILY NOTE/05/2025-05-03.md",
-    "LIFE/2025/DAILY NOTE/05/2025-05-02.md",
-    "LIFE/2025/DAILY NOTE/05/2025-05-01.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-01.md",
-    "LIFE/2025/WEEKLY NOTE/2025-W19.md",
-    "LIFE/2025/MONTHLY NOTE/2025-05.md",
-    "LIFE/2025/DAILY NOTE/05/2025-05-05.md",
-    "LIFE/2025/WEEKLY NOTE/2025-W18.md",
-    "LIFE/2025/DAILY NOTE/04/2025-05-04.md",
-    "TEMPLATES/LIFE/monthly note.md",
-    "LIFE/2025/DAILY NOTE/04/2025-05-01.md",
-    "2. 📌 Area 📌/투두리스트(백로그) + 기타.md",
-    "LIFE/2025/MONTHLY NOTE/2025-04.md",
-    "LIFE/2025/MONTHLY NOTE/2025-03.md",
-    "LIFE/2025/MONTHLY NOTE/2025-02.md",
-    "TEMPLATES/LIFE/weekly note.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-28.md",
-    "LIFE/2025/WEEKLY NOTE/Untitled 2.md",
-    "LIFE/2025/WEEKLY NOTE/(old).md",
-    "2025-W18.md",
-    "Untitled.md",
-    "LIFE/2025/DAILY NOTE/04/2025-04-29.md",
-    "LIFE/2025/WEEKLY NOTE/2025-04-29.md",
-    "LIFE/2025/DAILY NOTE/2025-04",
-    "LIFE/2025/WEEKLY NOTE/2025-03-W05.md",
-    "LIFE/2025/WEEKLY NOTE/2025-W17.md",
     "LIFE/2025/DAILY NOTE/05",
+    "attachments/100x100.png",
+    "attachments",
     "4. 🫧 Archive 🫧/갭이어/attachments/신청서 작성항목.png",
     "4. 🫧 Archive 🫧/갭이어/attachments",
     "4. 🫧 Archive 🫧/갭이어",
     "1. 🗂️ Project 🗂️/갭이어/attachments/신청서 작성항목.png",
     "1. 🗂️ Project 🗂️/갭이어/attachments",
     "🗂️ Project 🗂️/갭이어",
-    "🗂️ Project 🗂️",
-    "1. 🗂️ Project 🗂️/갭이어",
     "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 고공행진하는 금값.png",
     "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 100 밑으로 떨어진 달러 인덱스.png",
     "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 미국 10년물 국채 금리 추이.png",
     "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 양적 완화 - 총곱급 & 총수요 그래프.png",
     "2. 📌 Area 📌/경제 신문 스크랩/2025/attachments/5. 양적 완화 - 화폐 공급 그래프.png",
-    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/attachments/2. What About All the Questions We Haven't Answered?.mp3",
-    "2. 📌 Area 📌/영어/팟캐스트/No Stupid Questions/attachments/default.mp3_ywr3ahjkcgo_e05068d9b86b37facc6a25e80646ab6e_42336998.mp3",
     "3. 📚 Resource 📚/한입 런치박스/attachments/3. 연사 정보.png",
     "3. 📚 Resource 📚/한입 런치박스/attachments/Pasted image 20250312121119.png",
-    "3. 📚 Resource 📚/한입 런치박스/attachments/1. 연사 정보.png",
     "CANVAS/Untitled.canvas"
   ]
 }

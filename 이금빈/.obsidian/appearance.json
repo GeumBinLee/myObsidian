@@ -1,13 +1,13 @@
 {
   "enabledCssSnippets": [
     "dataview",
-    "theme",
     "code-block",
     "center-image",
     "convert-scheduled-to-reminder",
     "tasks-icon",
     "table-header-color",
-    "fonts"
+    "fonts",
+    "theme"
   ],
   "cssTheme": "AnuPpuccin",
   "showViewHeader": true,

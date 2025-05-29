@@ -2,5 +2,8 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "rightToLeft": false
 }
